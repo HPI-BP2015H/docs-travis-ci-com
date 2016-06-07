@@ -33,6 +33,12 @@ Thereafter the cron job is displayed above:
 
 ![cron job created](/images/cron-created.png "cron job created")
 
+## Editing Cron Jobs
+
+To edit an existing cron job add another one with the desired
+configuration to the same branch. The old cron job will be 
+replaced.
+
 ## Deleting Cron Jobs
 
 Just click on the small trash can on the right hand side:
